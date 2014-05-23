@@ -35,10 +35,11 @@ The implementation is based around a set of angular directives which collaborate
 
 
 ## Installation
-
+```sh
 git clone https://github.com/x1B/nbe.git
 npm install bower
 ./node_modules/.bin/bower install
+```
 
 With running webserver navigate to one of the /examples/__/debug.html 
 
